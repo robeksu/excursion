@@ -15,7 +15,9 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
-
+video{
+    object-fit: contain;
+}
 .header-2 {
     font-weight: 300;
     font-size: 42px;
@@ -37,4 +39,4 @@ p{
     font-size: 21px;
     color: gray;
 }
-    
+
